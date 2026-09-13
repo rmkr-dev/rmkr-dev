@@ -45,9 +45,15 @@ Focus areas reflected in public work: Java / Spring, Python CLIs, Azure / Kubern
 
 ## GitHub stats
 
+Cards are generated from the GitHub API by [`scripts/generate-stats-svgs.py`](scripts/generate-stats-svgs.py) and cached on the [`output`](https://github.com/rmkr-dev/rmkr-dev/tree/output) branch — no third-party Vercel stats host.
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rmkr-dev&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmkr-dev&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://cdn.jsdelivr.net/gh/rmkr-dev/rmkr-dev@output/github-stats.svg" alt="GitHub stats" />
+  <img height="160" src="https://cdn.jsdelivr.net/gh/rmkr-dev/rmkr-dev@output/github-top-langs.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://cdn.jsdelivr.net/gh/rmkr-dev/rmkr-dev@output/github-streak.svg" alt="GitHub streak" />
 </p>
 
 ---
