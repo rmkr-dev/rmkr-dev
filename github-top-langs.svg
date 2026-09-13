@@ -8,29 +8,29 @@
 <rect class="border" x="0.5" y="0.5" width="419" height="297" rx="8"/>
 <text class="title" x="20" y="32">Top Languages</text>
 <rect x="20" y="52" width="380" height="10" rx="5" fill="#21262d"/>
-<rect x="20" y="52" width="171" height="10" fill="#FFC300"/>
-<rect x="191" y="52" width="120" height="10" fill="#58a6ff"/>
-<rect x="311" y="52" width="36" height="10" fill="#3fb950"/>
-<rect x="347" y="52" width="32" height="10" fill="#f78166"/>
-<rect x="379" y="52" width="15" height="10" fill="#d2a8ff"/>
-<rect x="394" y="52" width="2" height="10" fill="#79c0ff"/>
-<rect x="396" y="52" width="2" height="10" fill="#ffa198"/>
-<rect x="398" y="52" width="2" height="10" fill="#7ee787"/>
+<rect x="20" y="52" width="169" height="10" fill="#FFC300"/>
+<rect x="189" y="52" width="119" height="10" fill="#58a6ff"/>
+<rect x="308" y="52" width="41" height="10" fill="#3fb950"/>
+<rect x="349" y="52" width="31" height="10" fill="#f78166"/>
+<rect x="380" y="52" width="15" height="10" fill="#d2a8ff"/>
+<rect x="395" y="52" width="2" height="10" fill="#79c0ff"/>
+<rect x="397" y="52" width="2" height="10" fill="#ffa198"/>
+<rect x="399" y="52" width="2" height="10" fill="#7ee787"/>
 <circle cx="28" cy="84" r="5" fill="#FFC300"/>
 <text class="label" x="42" y="88">HTML</text>
-<text class="pct" x="400" y="88" text-anchor="end">45.2%</text>
+<text class="pct" x="400" y="88" text-anchor="end">44.6%</text>
 <circle cx="28" cy="110" r="5" fill="#58a6ff"/>
 <text class="label" x="42" y="114">Java</text>
-<text class="pct" x="400" y="114" text-anchor="end">31.8%</text>
+<text class="pct" x="400" y="114" text-anchor="end">31.3%</text>
 <circle cx="28" cy="136" r="5" fill="#3fb950"/>
 <text class="label" x="42" y="140">Python</text>
-<text class="pct" x="400" y="140" text-anchor="end">9.6%</text>
+<text class="pct" x="400" y="140" text-anchor="end">11.0%</text>
 <circle cx="28" cy="162" r="5" fill="#f78166"/>
 <text class="label" x="42" y="166">JavaScript</text>
-<text class="pct" x="400" y="166" text-anchor="end">8.5%</text>
+<text class="pct" x="400" y="166" text-anchor="end">8.4%</text>
 <circle cx="28" cy="188" r="5" fill="#d2a8ff"/>
 <text class="label" x="42" y="192">CSS</text>
-<text class="pct" x="400" y="192" text-anchor="end">4.1%</text>
+<text class="pct" x="400" y="192" text-anchor="end">4.0%</text>
 <circle cx="28" cy="214" r="5" fill="#79c0ff"/>
 <text class="label" x="42" y="218">XSLT</text>
 <text class="pct" x="400" y="218" text-anchor="end">0.3%</text>
