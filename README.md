@@ -1,81 +1,90 @@
-# Hi 👋 I'm RMKR
+# rmkr-dev
 
-### Principal Software Engineer | Cloud & Platform Architecture | Azure | Java
+Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 
- [LinkedIn](https://linkedin.com/in/ramkumarethiraj) • [GitHub](https://github.com/ramethiraj)
-
----
-
-## 🚀 About Me
-Principal Software Engineer with 11+ years of experience designing, architecting, and scaling enterprise systems across cloud modernization, pricing platforms, clinical analytics, and distributed data orchestration.
-
-I specialize in:
-- Cloud-native architecture (Azure-first)
-- High-scale distributed systems
-- Java & Spring Boot engineering
-- Secure data flows for regulated workloads (PHI/PII)
-- CI/CD automation & platform governance
-- Performance optimization & platform modernization
-
-I turn complex business requirements into **secure, scalable, maintainable platforms**.
+Skill-focused open-source tools and templates — no personal contact details here.
 
 ---
 
-## 🧠 Core Technical Expertise
+## Toolkit & site
 
-**Cloud & Distributed Systems**
-- Azure AKS · Key Vault · Data Factory  
-- Azure Synapse · Azure Databricks · Delta Lake  
-- Blob Storage · Kubernetes
-
-**Backend & Architecture**
-- Java · Spring Boot · Spring Security  
-- API Design · Microservices · AuthN/AuthZ (JWT, OAuth)
-
-**Data & Analytics**
-- Spark ETL · Netezza · PostgreSQL  
-- Data federation, lineage, and performance tuning
-
-**DevOps / CI-CD**
-- GitHub Actions · Terraform · Observability & Logging Architecture
+- **[rmkr-dev.github.io](https://rmkr-dev.github.io)** — client-side utilities, AI Skillbook / Promptbook, and Focus Games
+- **[Games Hub](https://rmkr-dev.github.io/games/)** — simple browser focus games
 
 ---
 
-## 📈 Career Highlights
-- ⚙️ Modernized a large-scale pricing platform — **30% faster CI/CD** and improved release reliability  
-- 🔐 Implemented secure PHI/PII orchestration with field-level governance controls  
-- 🚀 Built an approval orchestration engine scaling to **20× throughput**  
-- 📊 Migrated analytics workloads to Azure — **~40% performance improvement**  
-- 🏅 Recognized under **Technology Leadership Career Path**
+## Public repositories
+
+| Repo | Stack | Notes |
+|------|-------|-------|
+| [rmkr-dev.github.io](https://github.com/rmkr-dev/rmkr-dev.github.io) | HTML / CSS / JS | Static toolkit site |
+| [jwt-oauth-cli](https://github.com/rmkr-dev/jwt-oauth-cli) | Java · Picocli · Nimbus JOSE | Local JWT / OAuth CLI |
+| [data-transform-cli](https://github.com/rmkr-dev/data-transform-cli) | Python · Click · PyYAML | YAML ↔ JSON ↔ CSV CLI |
+| [llm-eval-harness](https://github.com/rmkr-dev/llm-eval-harness) | Python | Offline LLM eval harness |
+| [enterprise-github-template](https://github.com/rmkr-dev/enterprise-github-template) | Docs · CI | Reusable GitHub repo template |
+| [java-spring-vuln-check](https://github.com/rmkr-dev/java-spring-vuln-check) | Java · Spring Boot | Intentionally vulnerable demo app |
+| [nist-nvd-exporter](https://github.com/rmkr-dev/nist-nvd-exporter) | — | NIST NVD vulnerability list helper |
+| [siebel-xml-comparator](https://github.com/rmkr-dev/siebel-xml-comparator) | Java | Compare Siebel XML sources |
+| [multi-split-mapred-job](https://github.com/rmkr-dev/multi-split-mapred-job) | Java | Multi-action MapReduce / HBase job |
+| [Parkinson-Prediction](https://github.com/rmkr-dev/Parkinson-Prediction) | Python | ML exploration repo |
+
+Private repositories are omitted on purpose.
 
 ---
 
-## 🧭 Career Timeline
-
-| Year(s) | Focus / Role |
-|---:|---|
-| **2014** | Began professional career in application development (Java, SQL) |
-| **2017** | Big Data & Distributed Systems — MapR, ETL, high-volume processing |
-| **2018–2022** | Cloud analytics & clinical trials modernization (Azure Synapse, Databricks) |
-| **2022–Present** | Enterprise architecture, security governance, and platform modernization; Principal Software Engineer role leading pricing & orchestration platforms |
-
----
-
-## 🛠️ Tools & Technologies
+## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,azure,kubernetes,githubactions,terraform,postgres,git,linux,MapR" height="48" alt="tech icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,azure,kubernetes,docker,githubactions,linux,postgres,git,bash,maven" alt="Skills" />
+  </a>
+</p>
+
+Focus areas reflected in public work: Java / Spring, Python CLIs, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, data transforms, and LLM-eval workflows.
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rmkr-dev&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmkr-dev&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-## 📫 Contact & Links
-- **LinkedIn:** https://linkedin.com/in/ramkumarethiraj  
-- **GitHub:** https://github.com/ramethiraj
+## Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmkr-dev/rmkr-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmkr-dev/rmkr-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rmkr-dev/rmkr-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+Generated by [Platane/snk](https://github.com/Platane/snk) via [`.github/workflows/snake.yml`](.github/workflows/snake.yml) onto the `output` branch. First image appears after the workflow runs once (Actions → **Generate contribution snake** → Run workflow).
 
 ---
 
-## ✨ Motto
-> *Architecture is not what we build, it is what we enable.*
+## Scripts
+
+Helpers under [`scripts/`](scripts/):
+
+| Script | Purpose |
+|--------|---------|
+| `list-public-repos.sh` | Print public repos for this account (JSON) |
+| `check-readme-hygiene.sh` | Fail if README regains personal/contact patterns |
+
+```bash
+./scripts/list-public-repos.sh
+./scripts/check-readme-hygiene.sh
+```
+
+Requires [`gh`](https://cli.github.com/) authenticated as `rmkr-dev`.
 
 ---
+
+## Maintenance
+
+This profile README is refreshed on a twice-weekly cadence from public repo metadata. If nothing meaningful changed, the pass is a no-op.
