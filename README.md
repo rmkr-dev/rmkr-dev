@@ -85,7 +85,3 @@ Helpers under [`scripts/`](scripts/):
 ./scripts/list-public-repos.sh
 ./scripts/check-readme-hygiene.sh
 ```
-
-Requires [`gh`](https://cli.github.com/) authenticated as `rmkr-dev`.
-
----
