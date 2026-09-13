@@ -83,7 +83,3 @@ Helpers under [`scripts/`](scripts/):
 Requires [`gh`](https://cli.github.com/) authenticated as `rmkr-dev`.
 
 ---
-
-## Maintenance
-
-This profile README is refreshed on a twice-weekly cadence from public repo metadata. If nothing meaningful changed, the pass is a no-op.
