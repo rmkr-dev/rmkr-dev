@@ -2,7 +2,6 @@
 
 Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 
-Skill-focused open-source tools and templates — no personal contact details here.
 
 ---
 
