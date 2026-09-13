@@ -1,15 +1,22 @@
-
-    <svg width="495" height="120" viewBox="0 0 495 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F80ED }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #252525 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="494" height="99%" rx="4.5" fill="#FFFEFE" stroke="#E4E2E2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Maximum retries exceeded</tspan>
-      <tspan x="25" dy="18" class="gray">Please add an env variable called PAT_1 with your github token in vercel</tspan>
-    </text>
-    </svg>
-  
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240" role="img">
+<style>
+  .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFC300; }
+  .label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+  .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f0f6fc; }
+  .border { stroke: #30363d; fill: #0d1117; }
+</style>
+<rect class="border" x="0.5" y="0.5" width="419" height="239" rx="8"/>
+<text class="title" x="20" y="32">@rmkr-dev GitHub Stats</text>
+<text class="label" x="20" y="62">Public repositories</text>
+<text class="value" x="400" y="62" text-anchor="end">15</text>
+<text class="label" x="20" y="90">Stars earned</text>
+<text class="value" x="400" y="90" text-anchor="end">1</text>
+<text class="label" x="20" y="118">Forks earned</text>
+<text class="value" x="400" y="118" text-anchor="end">0</text>
+<text class="label" x="20" y="146">Public PRs authored</text>
+<text class="value" x="400" y="146" text-anchor="end">31</text>
+<text class="label" x="20" y="174">Public issues authored</text>
+<text class="value" x="400" y="174" text-anchor="end">0</text>
+<text class="label" x="20" y="202">Followers</text>
+<text class="value" x="400" y="202" text-anchor="end">0</text>
+</svg>

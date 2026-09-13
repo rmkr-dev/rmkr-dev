@@ -1,15 +1,43 @@
-
-    <svg width="495" height="120" viewBox="0 0 495 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F80ED }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #252525 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="494" height="99%" rx="4.5" fill="#FFFEFE" stroke="#E4E2E2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Maximum retries exceeded</tspan>
-      <tspan x="25" dy="18" class="gray">Please add an env variable called PAT_1 with your github token in vercel</tspan>
-    </text>
-    </svg>
-  
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="298" viewBox="0 0 420 298" role="img">
+<style>
+  .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFC300; }
+  .label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+  .pct { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f0f6fc; }
+  .border { stroke: #30363d; fill: #0d1117; }
+</style>
+<rect class="border" x="0.5" y="0.5" width="419" height="297" rx="8"/>
+<text class="title" x="20" y="32">Top Languages</text>
+<rect x="20" y="52" width="380" height="10" rx="5" fill="#21262d"/>
+<rect x="20" y="52" width="171" height="10" fill="#FFC300"/>
+<rect x="191" y="52" width="120" height="10" fill="#58a6ff"/>
+<rect x="311" y="52" width="36" height="10" fill="#3fb950"/>
+<rect x="347" y="52" width="32" height="10" fill="#f78166"/>
+<rect x="379" y="52" width="15" height="10" fill="#d2a8ff"/>
+<rect x="394" y="52" width="2" height="10" fill="#79c0ff"/>
+<rect x="396" y="52" width="2" height="10" fill="#ffa198"/>
+<rect x="398" y="52" width="2" height="10" fill="#7ee787"/>
+<circle cx="28" cy="84" r="5" fill="#FFC300"/>
+<text class="label" x="42" y="88">HTML</text>
+<text class="pct" x="400" y="88" text-anchor="end">45.2%</text>
+<circle cx="28" cy="110" r="5" fill="#58a6ff"/>
+<text class="label" x="42" y="114">Java</text>
+<text class="pct" x="400" y="114" text-anchor="end">31.8%</text>
+<circle cx="28" cy="136" r="5" fill="#3fb950"/>
+<text class="label" x="42" y="140">Python</text>
+<text class="pct" x="400" y="140" text-anchor="end">9.6%</text>
+<circle cx="28" cy="162" r="5" fill="#f78166"/>
+<text class="label" x="42" y="166">JavaScript</text>
+<text class="pct" x="400" y="166" text-anchor="end">8.5%</text>
+<circle cx="28" cy="188" r="5" fill="#d2a8ff"/>
+<text class="label" x="42" y="192">CSS</text>
+<text class="pct" x="400" y="192" text-anchor="end">4.1%</text>
+<circle cx="28" cy="214" r="5" fill="#79c0ff"/>
+<text class="label" x="42" y="218">XSLT</text>
+<text class="pct" x="400" y="218" text-anchor="end">0.3%</text>
+<circle cx="28" cy="240" r="5" fill="#ffa198"/>
+<text class="label" x="42" y="244">Shell</text>
+<text class="pct" x="400" y="244" text-anchor="end">0.2%</text>
+<circle cx="28" cy="266" r="5" fill="#7ee787"/>
+<text class="label" x="42" y="270">Batchfile</text>
+<text class="pct" x="400" y="270" text-anchor="end">0.2%</text>
+</svg>
