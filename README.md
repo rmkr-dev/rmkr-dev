@@ -17,10 +17,14 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 | Repo | Stack | Notes |
 |------|-------|-------|
 | [rmkr-dev.github.io](https://github.com/rmkr-dev/rmkr-dev.github.io) | HTML / CSS / JS | Static toolkit site |
+| [ai-dev-guardrails](https://github.com/rmkr-dev/ai-dev-guardrails) | Python | AGENTS.md modules and DoD hygiene for Copilot / Claude / Codex |
+| [spring-boot-aks-blueprint](https://github.com/rmkr-dev/spring-boot-aks-blueprint) | Java · Spring Boot 21 | Opinionated AKS service blueprint |
+| [gha-reusable-workflows](https://github.com/rmkr-dev/gha-reusable-workflows) | GitHub Actions | Reusable Java / Maven and Python CI workflows |
+| [vuln-reachability-scorer](https://github.com/rmkr-dev/vuln-reachability-scorer) | Python | Topology-aware CVE prioritization CLI |
+| [enterprise-github-template](https://github.com/rmkr-dev/enterprise-github-template) | Shell · Docs · CI | Production-ready GitHub repo template |
 | [jwt-oauth-cli](https://github.com/rmkr-dev/jwt-oauth-cli) | Java · Picocli · Nimbus JOSE | Local JWT / OAuth CLI |
 | [data-transform-cli](https://github.com/rmkr-dev/data-transform-cli) | Python · Click · PyYAML | YAML ↔ JSON ↔ CSV CLI |
 | [llm-eval-harness](https://github.com/rmkr-dev/llm-eval-harness) | Python | Offline LLM eval harness |
-| [enterprise-github-template](https://github.com/rmkr-dev/enterprise-github-template) | Docs · CI | Reusable GitHub repo template |
 | [java-spring-vuln-check](https://github.com/rmkr-dev/java-spring-vuln-check) | Java · Spring Boot | Intentionally vulnerable demo app |
 | [nist-nvd-exporter](https://github.com/rmkr-dev/nist-nvd-exporter) | — | NIST NVD vulnerability list helper |
 | [siebel-xml-comparator](https://github.com/rmkr-dev/siebel-xml-comparator) | Java | Compare Siebel XML sources |
@@ -39,7 +43,7 @@ Private repositories are omitted on purpose.
   </a>
 </p>
 
-Focus areas reflected in public work: Java / Spring, Python CLIs, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, data transforms, and LLM-eval workflows.
+Focus areas reflected in public work: Java / Spring on AKS, Python CLIs, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
 
 ---
 
@@ -80,8 +84,11 @@ Helpers under [`scripts/`](scripts/):
 |--------|---------|
 | `list-public-repos.sh` | Print public repos for this account (JSON) |
 | `check-readme-hygiene.sh` | Fail if README regains personal/contact patterns |
+| `generate-stats-svgs.py` | Cache stats / langs / streak SVGs onto the `output` branch |
 
 ```bash
 ./scripts/list-public-repos.sh
 ./scripts/check-readme-hygiene.sh
 ```
+
+---
