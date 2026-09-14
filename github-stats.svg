@@ -8,13 +8,13 @@
 <rect class="border" x="0.5" y="0.5" width="419" height="239" rx="8"/>
 <text class="title" x="20" y="32">@rmkr-dev GitHub Stats</text>
 <text class="label" x="20" y="62">Public repositories</text>
-<text class="value" x="400" y="62" text-anchor="end">17</text>
+<text class="value" x="400" y="62" text-anchor="end">19</text>
 <text class="label" x="20" y="90">Stars earned</text>
 <text class="value" x="400" y="90" text-anchor="end">1</text>
 <text class="label" x="20" y="118">Forks earned</text>
 <text class="value" x="400" y="118" text-anchor="end">0</text>
 <text class="label" x="20" y="146">Public PRs authored</text>
-<text class="value" x="400" y="146" text-anchor="end">50</text>
+<text class="value" x="400" y="146" text-anchor="end">214</text>
 <text class="label" x="20" y="174">Public issues authored</text>
 <text class="value" x="400" y="174" text-anchor="end">0</text>
 <text class="label" x="20" y="202">Followers</text>
