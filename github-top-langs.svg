@@ -9,35 +9,35 @@
 <text class="title" x="20" y="32">Top Languages</text>
 <rect x="20" y="52" width="380" height="10" rx="5" fill="#21262d"/>
 <rect x="20" y="52" width="125" height="10" fill="#FFC300"/>
-<rect x="145" y="52" width="116" height="10" fill="#58a6ff"/>
-<rect x="261" y="52" width="91" height="10" fill="#3fb950"/>
-<rect x="352" y="52" width="23" height="10" fill="#f78166"/>
-<rect x="375" y="52" width="11" height="10" fill="#d2a8ff"/>
-<rect x="386" y="52" width="10" height="10" fill="#79c0ff"/>
+<rect x="145" y="52" width="100" height="10" fill="#58a6ff"/>
+<rect x="245" y="52" width="96" height="10" fill="#3fb950"/>
+<rect x="341" y="52" width="28" height="10" fill="#f78166"/>
+<rect x="369" y="52" width="18" height="10" fill="#d2a8ff"/>
+<rect x="387" y="52" width="9" height="10" fill="#79c0ff"/>
 <rect x="396" y="52" width="2" height="10" fill="#ffa198"/>
 <rect x="398" y="52" width="2" height="10" fill="#7ee787"/>
 <circle cx="28" cy="84" r="5" fill="#FFC300"/>
-<text class="label" x="42" y="88">HTML</text>
-<text class="pct" x="400" y="88" text-anchor="end">33.1%</text>
+<text class="label" x="42" y="88">Python</text>
+<text class="pct" x="400" y="88" text-anchor="end">32.9%</text>
 <circle cx="28" cy="110" r="5" fill="#58a6ff"/>
 <text class="label" x="42" y="114">Java</text>
-<text class="pct" x="400" y="114" text-anchor="end">30.6%</text>
+<text class="pct" x="400" y="114" text-anchor="end">26.4%</text>
 <circle cx="28" cy="136" r="5" fill="#3fb950"/>
-<text class="label" x="42" y="140">Python</text>
-<text class="pct" x="400" y="140" text-anchor="end">24.0%</text>
+<text class="label" x="42" y="140">HTML</text>
+<text class="pct" x="400" y="140" text-anchor="end">25.4%</text>
 <circle cx="28" cy="162" r="5" fill="#f78166"/>
-<text class="label" x="42" y="166">JavaScript</text>
-<text class="pct" x="400" y="166" text-anchor="end">6.1%</text>
+<text class="label" x="42" y="166">Shell</text>
+<text class="pct" x="400" y="166" text-anchor="end">7.5%</text>
 <circle cx="28" cy="188" r="5" fill="#d2a8ff"/>
-<text class="label" x="42" y="192">CSS</text>
-<text class="pct" x="400" y="192" text-anchor="end">3.1%</text>
+<text class="label" x="42" y="192">JavaScript</text>
+<text class="pct" x="400" y="192" text-anchor="end">4.9%</text>
 <circle cx="28" cy="214" r="5" fill="#79c0ff"/>
-<text class="label" x="42" y="218">Shell</text>
-<text class="pct" x="400" y="218" text-anchor="end">2.8%</text>
+<text class="label" x="42" y="218">CSS</text>
+<text class="pct" x="400" y="218" text-anchor="end">2.6%</text>
 <circle cx="28" cy="240" r="5" fill="#ffa198"/>
-<text class="label" x="42" y="244">XSLT</text>
+<text class="label" x="42" y="244">Makefile</text>
 <text class="pct" x="400" y="244" text-anchor="end">0.2%</text>
 <circle cx="28" cy="266" r="5" fill="#7ee787"/>
-<text class="label" x="42" y="270">Dockerfile</text>
-<text class="pct" x="400" y="270" text-anchor="end">0.2%</text>
+<text class="label" x="42" y="270">XSLT</text>
+<text class="pct" x="400" y="270" text-anchor="end">0.1%</text>
 </svg>
