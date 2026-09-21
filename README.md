@@ -18,6 +18,8 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 |------|-------|-------|
 | [rmkr-dev.github.io](https://github.com/rmkr-dev/rmkr-dev.github.io) | HTML / CSS / JS | Static toolkit site |
 | [ai-dev-guardrails](https://github.com/rmkr-dev/ai-dev-guardrails) | Python | AGENTS.md modules and DoD hygiene for Copilot / Claude / Codex |
+| [agent-builder](https://github.com/rmkr-dev/agent-builder) | Python | Mother agent that emits reusable Copilot / Claude / Codex agents |
+| [agentic-workflow-builder](https://github.com/rmkr-dev/agentic-workflow-builder) | Python | Compile agentic intent into executable workflows |
 | [spring-boot-aks-blueprint](https://github.com/rmkr-dev/spring-boot-aks-blueprint) | Java · Spring Boot 21 | Opinionated AKS service blueprint |
 | [gha-reusable-workflows](https://github.com/rmkr-dev/gha-reusable-workflows) | GitHub Actions | Reusable Java / Maven and Python CI workflows |
 | [vuln-reachability-scorer](https://github.com/rmkr-dev/vuln-reachability-scorer) | Python | Topology-aware CVE prioritization CLI |
@@ -43,7 +45,7 @@ Private repositories are omitted on purpose.
   </a>
 </p>
 
-Focus areas reflected in public work: Java / Spring on AKS, Python CLIs, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
+Focus areas reflected in public work: Java / Spring on AKS, Python CLIs and agent tooling, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
 
 ---
 
