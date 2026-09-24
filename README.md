@@ -27,6 +27,7 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 | [jwt-oauth-cli](https://github.com/rmkr-dev/jwt-oauth-cli) | Java · Picocli · Nimbus JOSE | Local JWT / OAuth CLI |
 | [data-transform-cli](https://github.com/rmkr-dev/data-transform-cli) | Python · Click · PyYAML | YAML ↔ JSON ↔ CSV CLI |
 | [llm-eval-harness](https://github.com/rmkr-dev/llm-eval-harness) | Python | Offline LLM eval harness |
+| [infraguard-SFT-dataset](https://github.com/rmkr-dev/infraguard-SFT-dataset) | Dataset · LLM | LoRA SFT dataset for Qwen |
 | [java-spring-vuln-check](https://github.com/rmkr-dev/java-spring-vuln-check) | Java · Spring Boot | Intentionally vulnerable demo app |
 | [nist-nvd-exporter](https://github.com/rmkr-dev/nist-nvd-exporter) | — | NIST NVD vulnerability list helper |
 | [siebel-xml-comparator](https://github.com/rmkr-dev/siebel-xml-comparator) | Java | Compare Siebel XML sources |
