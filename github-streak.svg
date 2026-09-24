@@ -8,9 +8,9 @@
 <rect class="border" x="0.5" y="0.5" width="419" height="155" rx="8"/>
 <text class="title" x="20" y="32">@rmkr-dev Recent Activity</text>
 <text class="label" x="20" y="62">Push events (last 100 public)</text>
-<text class="value" x="400" y="62" text-anchor="end">50</text>
+<text class="value" x="400" y="62" text-anchor="end">46</text>
 <text class="label" x="20" y="90">PR / create events (last 100)</text>
-<text class="value" x="400" y="90" text-anchor="end">34</text>
+<text class="value" x="400" y="90" text-anchor="end">37</text>
 <text class="label" x="20" y="118">Account created</text>
 <text class="value" x="400" y="118" text-anchor="end">2020-04-25</text>
 </svg>
