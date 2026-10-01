@@ -27,6 +27,7 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 | [jwt-oauth-cli](https://github.com/rmkr-dev/jwt-oauth-cli) | Java · Picocli · Nimbus JOSE | Local JWT / OAuth CLI |
 | [data-transform-cli](https://github.com/rmkr-dev/data-transform-cli) | Python · Click · PyYAML | YAML ↔ JSON ↔ CSV CLI |
 | [llm-eval-harness](https://github.com/rmkr-dev/llm-eval-harness) | Python | Offline LLM eval harness |
+| [sentinelmesh](https://github.com/rmkr-dev/sentinelmesh) | Go | Cloud-native observability, incident correlation, and AIOps mesh |
 | [infraguard-SFT-dataset](https://github.com/rmkr-dev/infraguard-SFT-dataset) | Dataset · LLM | LoRA SFT dataset for Qwen |
 | [java-spring-vuln-check](https://github.com/rmkr-dev/java-spring-vuln-check) | Java · Spring Boot | Intentionally vulnerable demo app |
 | [nist-nvd-exporter](https://github.com/rmkr-dev/nist-nvd-exporter) | — | NIST NVD vulnerability list helper |
@@ -42,11 +43,11 @@ Private repositories are omitted on purpose.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,azure,kubernetes,docker,githubactions,linux,postgres,git,bash,maven" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,go,azure,kubernetes,docker,githubactions,linux,postgres,git,bash,maven" alt="Skills" />
   </a>
 </p>
 
-Focus areas reflected in public work: Java / Spring on AKS, Python CLIs and agent tooling, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
+Focus areas reflected in public work: Java / Spring on AKS, Python CLIs and agent tooling, Go observability / AIOps, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
 
 ---
 
