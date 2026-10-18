@@ -8,36 +8,36 @@
 <rect class="border" x="0.5" y="0.5" width="419" height="297" rx="8"/>
 <text class="title" x="20" y="32">Top Languages</text>
 <rect x="20" y="52" width="380" height="10" rx="5" fill="#21262d"/>
-<rect x="20" y="52" width="147" height="10" fill="#FFC300"/>
-<rect x="167" y="52" width="73" height="10" fill="#58a6ff"/>
-<rect x="240" y="52" width="71" height="10" fill="#3fb950"/>
-<rect x="311" y="52" width="56" height="10" fill="#f78166"/>
-<rect x="367" y="52" width="12" height="10" fill="#d2a8ff"/>
-<rect x="379" y="52" width="8" height="10" fill="#79c0ff"/>
-<rect x="387" y="52" width="6" height="10" fill="#ffa198"/>
-<rect x="393" y="52" width="2" height="10" fill="#7ee787"/>
+<rect x="20" y="52" width="128" height="10" fill="#FFC300"/>
+<rect x="148" y="52" width="102" height="10" fill="#58a6ff"/>
+<rect x="250" y="52" width="64" height="10" fill="#3fb950"/>
+<rect x="314" y="52" width="57" height="10" fill="#f78166"/>
+<rect x="371" y="52" width="10" height="10" fill="#d2a8ff"/>
+<rect x="381" y="52" width="7" height="10" fill="#79c0ff"/>
+<rect x="388" y="52" width="7" height="10" fill="#ffa198"/>
+<rect x="395" y="52" width="2" height="10" fill="#7ee787"/>
 <circle cx="28" cy="84" r="5" fill="#FFC300"/>
 <text class="label" x="42" y="88">Python</text>
-<text class="pct" x="400" y="88" text-anchor="end">38.7%</text>
+<text class="pct" x="400" y="88" text-anchor="end">33.8%</text>
 <circle cx="28" cy="110" r="5" fill="#58a6ff"/>
-<text class="label" x="42" y="114">Go</text>
-<text class="pct" x="400" y="114" text-anchor="end">19.5%</text>
+<text class="label" x="42" y="114">Java</text>
+<text class="pct" x="400" y="114" text-anchor="end">26.9%</text>
 <circle cx="28" cy="136" r="5" fill="#3fb950"/>
-<text class="label" x="42" y="140">Java</text>
-<text class="pct" x="400" y="140" text-anchor="end">18.9%</text>
+<text class="label" x="42" y="140">Go</text>
+<text class="pct" x="400" y="140" text-anchor="end">17.0%</text>
 <circle cx="28" cy="162" r="5" fill="#f78166"/>
 <text class="label" x="42" y="166">HTML</text>
-<text class="pct" x="400" y="166" text-anchor="end">14.9%</text>
+<text class="pct" x="400" y="166" text-anchor="end">15.1%</text>
 <circle cx="28" cy="188" r="5" fill="#d2a8ff"/>
 <text class="label" x="42" y="192">Shell</text>
-<text class="pct" x="400" y="192" text-anchor="end">3.2%</text>
+<text class="pct" x="400" y="192" text-anchor="end">2.8%</text>
 <circle cx="28" cy="214" r="5" fill="#79c0ff"/>
 <text class="label" x="42" y="218">JavaScript</text>
-<text class="pct" x="400" y="218" text-anchor="end">2.2%</text>
+<text class="pct" x="400" y="218" text-anchor="end">1.9%</text>
 <circle cx="28" cy="240" r="5" fill="#ffa198"/>
 <text class="label" x="42" y="244">CSS</text>
-<text class="pct" x="400" y="244" text-anchor="end">1.8%</text>
+<text class="pct" x="400" y="244" text-anchor="end">1.9%</text>
 <circle cx="28" cy="266" r="5" fill="#7ee787"/>
 <text class="label" x="42" y="270">HCL</text>
-<text class="pct" x="400" y="270" text-anchor="end">0.7%</text>
+<text class="pct" x="400" y="270" text-anchor="end">0.6%</text>
 </svg>
