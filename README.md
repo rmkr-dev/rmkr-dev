@@ -8,7 +8,7 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 ## Toolkit & site
 
 - **[rmkr-dev.github.io](https://rmkr-dev.github.io)** — client-side utilities, AI Skillbook / Promptbook, and Focus Games
-- **[Games Hub](https://rmkr-dev.github.io/games/)** — simple browser focus games
+- **[Games Hub](https://rmkr-dev.github.io/games/)** — browser focus and puzzle games
 
 ---
 
@@ -21,11 +21,12 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 | [agent-builder](https://github.com/rmkr-dev/agent-builder) | Python | Mother agent that emits reusable Copilot / Claude / Codex agents |
 | [agentic-workflow-builder](https://github.com/rmkr-dev/agentic-workflow-builder) | Python | Compile agentic intent into executable workflows |
 | [spring-boot-aks-blueprint](https://github.com/rmkr-dev/spring-boot-aks-blueprint) | Java · Spring Boot 21 | Opinionated AKS service blueprint |
+| [spring-security-jwt-starter](https://github.com/rmkr-dev/spring-security-jwt-starter) | Java · Spring Boot 3 · Spring Security | Drop-in Microsoft Entra ID starter: user and app-only JWTs, groups / app roles to `@Secured`, MVC and WebFlux, on-behalf-of calls |
 | [gha-reusable-workflows](https://github.com/rmkr-dev/gha-reusable-workflows) | GitHub Actions | Reusable Java / Maven and Python CI workflows |
 | [vuln-reachability-scorer](https://github.com/rmkr-dev/vuln-reachability-scorer) | Python | Topology-aware CVE prioritization CLI |
 | [enterprise-github-template](https://github.com/rmkr-dev/enterprise-github-template) | Shell · Docs · CI | Production-ready GitHub repo template |
 | [jwt-oauth-cli](https://github.com/rmkr-dev/jwt-oauth-cli) | Java · Picocli · Nimbus JOSE | Decode, verify, and sign JWTs; JWK / JWKS keygen; PKCE and OAuth 2.0 / OIDC flows locally |
-| [data-transform-cli](https://github.com/rmkr-dev/data-transform-cli) | Python · Click · PyYAML | YAML ↔ JSON ↔ CSV ↔ NDJSON transforms with select / pick / stats for shell pipelines |
+| [data-transform-cli](https://github.com/rmkr-dev/data-transform-cli) | Python · Click · PyYAML | YAML ↔ JSON ↔ CSV ↔ NDJSON transforms, joins, and schema validation (v1.0) for shell pipelines |
 | [llm-eval-harness](https://github.com/rmkr-dev/llm-eval-harness) | Python | Offline LLM eval harness (v1.0): golden fixtures, JSON / Markdown / JUnit reports |
 | [sentinelmesh](https://github.com/rmkr-dev/sentinelmesh) | Go | Cloud-native observability, incident correlation, and AIOps mesh |
 | [infraguard-SFT-dataset](https://github.com/rmkr-dev/infraguard-SFT-dataset) | Dataset · LLM | LoRA SFT dataset for Qwen |
@@ -47,7 +48,7 @@ Private repositories are omitted on purpose.
   </a>
 </p>
 
-Focus areas reflected in public work: Java / Spring on AKS, Python CLIs and agent tooling, Go observability / AIOps, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
+Focus areas reflected in public work: Java / Spring on AKS, Spring Security with Microsoft Entra ID, Python CLIs and agent tooling, Go observability / AIOps, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
 
 ---
 
