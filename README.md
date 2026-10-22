@@ -21,7 +21,7 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 | [agent-builder](https://github.com/rmkr-dev/agent-builder) | Python | Mother agent that emits reusable Copilot / Claude / Codex agents |
 | [agentic-workflow-builder](https://github.com/rmkr-dev/agentic-workflow-builder) | Python | Compile agentic intent into executable workflows |
 | [spring-boot-aks-blueprint](https://github.com/rmkr-dev/spring-boot-aks-blueprint) | Java · Spring Boot 21 | Opinionated AKS service blueprint |
-| [spring-security-jwt-starter](https://github.com/rmkr-dev/spring-security-jwt-starter) | Java · Spring Boot 3 · Spring Security | Drop-in Microsoft Entra ID starter: user and app-only JWTs, groups / app roles to `@Secured`, MVC and WebFlux, on-behalf-of calls |
+| [spring-security-jwt-starter](https://github.com/rmkr-dev/spring-security-jwt-starter) | Java · Spring Boot 4.1 · Spring Security | Drop-in Microsoft Entra ID starter (1.0 line): user and app-only JWTs, groups / app roles to `@Secured`, MVC and WebFlux, on-behalf-of calls |
 | [gha-reusable-workflows](https://github.com/rmkr-dev/gha-reusable-workflows) | GitHub Actions | Reusable Java / Maven and Python CI workflows |
 | [vuln-reachability-scorer](https://github.com/rmkr-dev/vuln-reachability-scorer) | Python | Topology-aware CVE prioritization CLI |
 | [enterprise-github-template](https://github.com/rmkr-dev/enterprise-github-template) | Shell · Docs · CI | Production-ready GitHub repo template |
