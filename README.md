@@ -22,6 +22,7 @@ Public GitHub profile for **[@rmkr-dev](https://github.com/rmkr-dev)**.
 | [agentic-workflow-builder](https://github.com/rmkr-dev/agentic-workflow-builder) | Python | Compile agentic intent into executable workflows |
 | [spring-boot-aks-blueprint](https://github.com/rmkr-dev/spring-boot-aks-blueprint) | Java · Spring Boot 21 | Opinionated AKS service blueprint |
 | [spring-security-jwt-starter](https://github.com/rmkr-dev/spring-security-jwt-starter) | Java · Spring Boot 4.1 · Spring Security | Drop-in Microsoft Entra ID starter (1.0 line): user and app-only JWTs, groups / app roles to `@Secured`, MVC and WebFlux, on-behalf-of calls |
+| [rag-eval-gateway](https://github.com/rmkr-dev/rag-eval-gateway) | Java 21 · Spring Boot 4 | Provider-agnostic LLM gateway: routing and fallback, streaming, built-in cost and latency tracking, budgets, PII redaction, eval hooks, Kustomize for AKS |
 | [gha-reusable-workflows](https://github.com/rmkr-dev/gha-reusable-workflows) | GitHub Actions | Reusable Java / Maven and Python CI workflows |
 | [vuln-reachability-scorer](https://github.com/rmkr-dev/vuln-reachability-scorer) | Python | Topology-aware CVE prioritization CLI |
 | [enterprise-github-template](https://github.com/rmkr-dev/enterprise-github-template) | Shell · Docs · CI | Production-ready GitHub repo template |
@@ -48,7 +49,7 @@ Private repositories are omitted on purpose.
   </a>
 </p>
 
-Focus areas reflected in public work: Java / Spring on AKS, Spring Security with Microsoft Entra ID, Python CLIs and agent tooling, Go observability / AIOps, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, and LLM-eval workflows.
+Focus areas reflected in public work: Java / Spring on AKS, Spring Security with Microsoft Entra ID, Python CLIs and agent tooling, Go observability / AIOps, Azure / Kubernetes patterns, JWT / OAuth tooling, GitHub Actions, security and vuln prioritization, data transforms, LLM gateways with cost / latency tracking, and LLM-eval workflows.
 
 ---
 
