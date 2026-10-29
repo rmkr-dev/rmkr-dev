@@ -18,7 +18,7 @@
 <rect x="395" y="52" width="2" height="10" fill="#7ee787"/>
 <circle cx="28" cy="84" r="5" fill="#FFC300"/>
 <text class="label" x="42" y="88">Java</text>
-<text class="pct" x="400" y="88" text-anchor="end">48.3%</text>
+<text class="pct" x="400" y="88" text-anchor="end">48.4%</text>
 <circle cx="28" cy="110" r="5" fill="#58a6ff"/>
 <text class="label" x="42" y="114">Python</text>
 <text class="pct" x="400" y="114" text-anchor="end">22.7%</text>
