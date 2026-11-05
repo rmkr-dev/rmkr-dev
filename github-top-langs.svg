@@ -12,10 +12,10 @@
 <rect x="220" y="52" width="78" height="10" fill="#58a6ff"/>
 <rect x="298" y="52" width="41" height="10" fill="#3fb950"/>
 <rect x="339" y="52" width="39" height="10" fill="#f78166"/>
-<rect x="378" y="52" width="6" height="10" fill="#d2a8ff"/>
-<rect x="384" y="52" width="6" height="10" fill="#79c0ff"/>
-<rect x="390" y="52" width="4" height="10" fill="#ffa198"/>
-<rect x="394" y="52" width="2" height="10" fill="#7ee787"/>
+<rect x="378" y="52" width="7" height="10" fill="#d2a8ff"/>
+<rect x="385" y="52" width="6" height="10" fill="#79c0ff"/>
+<rect x="391" y="52" width="4" height="10" fill="#ffa198"/>
+<rect x="395" y="52" width="2" height="10" fill="#7ee787"/>
 <circle cx="28" cy="84" r="5" fill="#FFC300"/>
 <text class="label" x="42" y="88">Java</text>
 <text class="pct" x="400" y="88" text-anchor="end">52.8%</text>
@@ -30,7 +30,7 @@
 <text class="pct" x="400" y="166" text-anchor="end">10.4%</text>
 <circle cx="28" cy="188" r="5" fill="#d2a8ff"/>
 <text class="label" x="42" y="192">Shell</text>
-<text class="pct" x="400" y="192" text-anchor="end">1.7%</text>
+<text class="pct" x="400" y="192" text-anchor="end">1.9%</text>
 <circle cx="28" cy="214" r="5" fill="#79c0ff"/>
 <text class="label" x="42" y="218">JavaScript</text>
 <text class="pct" x="400" y="218" text-anchor="end">1.6%</text>
