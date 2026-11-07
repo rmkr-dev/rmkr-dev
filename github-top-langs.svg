@@ -24,7 +24,7 @@
 <text class="pct" x="400" y="114" text-anchor="end">20.7%</text>
 <circle cx="28" cy="136" r="5" fill="#3fb950"/>
 <text class="label" x="42" y="140">HTML</text>
-<text class="pct" x="400" y="140" text-anchor="end">11.0%</text>
+<text class="pct" x="400" y="140" text-anchor="end">10.9%</text>
 <circle cx="28" cy="162" r="5" fill="#f78166"/>
 <text class="label" x="42" y="166">Go</text>
 <text class="pct" x="400" y="166" text-anchor="end">10.4%</text>
